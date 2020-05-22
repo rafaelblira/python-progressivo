@@ -7,8 +7,8 @@ for num in range(2, total + 1):
             prime = False
     if prime:
         cont += 1
-        print(num)
-print('A seqência possui {} números primos'.format(cont))
+        print(num, end=' ')
+print('\nA seqência possui {} números primos'.format(cont))
             
 
 
