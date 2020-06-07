@@ -1,4 +1,4 @@
-termo = int(input('Digite o número de termos: '))
+termo = int(input('Digite o numero de termos: '))
 numero = []
 
 
